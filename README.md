@@ -7,7 +7,7 @@
 
 #### M1Q1: What is AI primarily defined as? Choose only ONE best answer. 
 
-- **A. A technique that enables computers to mimic human intelligence. **
+- **A. A technique that enables computers to mimic human intelligence**. 
 - B. A technology that only processes numerical data.
 - C. A system that can only perform mathematical calculations.
 - D. A software tool that replaces all human decision-making. 
@@ -22,7 +22,7 @@
 #### M1Q3: What is the main purpose of supervised learning? Choose only ONE best answer. 
 
 - A. To learn patterns without any labeled input. 
-- **B. To predict outcomes based on input data with known answers. **
+- **B. To predict outcomes based on input data with known answers**. 
 - C. To generate new content without training data. 
 - D. To operate without any human intervention or data labelling. 
 
@@ -55,26 +55,26 @@
 
 - A. Write about sustainable travel. 
 - B. Explain sustainable travel in detail, focusing on examples. 
-- **C. Create a blog post on eco-friendly travel for university students, with cost-saving tips and destination recommendations. **
+- **C. Create a blog post on eco-friendly travel for university students, with cost-saving tips and destination recommendations**. 
 - D. List five reasons why sustainable travel is important. 
 
 #### M2Q2: The AI's output is too generic and lacks practical recommendations. What should you ask AI to do? Choose only ONE best answer. 
 
 - A. Make the blog post more engaging and add storytelling elements. 
-- **B. Provide specific travel tips, cost-saving strategies, and recommended destinations for students. **
+- **B. Provide specific travel tips, cost-saving strategies, and recommended destinations for students**. 
 - C. Provide a more detailed explanation on why sustainable travel is important. 
 - D. Reword the blog post in a more casual style and is easier to read. 
 
 #### M2Q3: Writing a Video Script on Renewable Energy. Your team is preparing an educational video on renewable energy. You want AI to draft a script that explains key concepts clearly and includes real-world applications. Which prompt is more likely to produce the best results? Choose only ONE best answer. 
 
 - A. Write a video script about sustainable energy for general audiences.
-- **B. Draft a script for an educational video on renewable energy, including practical examples of how alternative energy sources and how they function. **
+- **B. Draft a script for an educational video on renewable energy, including practical examples of how alternative energy sources and how they function**. 
 - C. Explain sustainable energy concepts clearly for students. 
 - D. Outline a video script about the importance of energy conservation. 
 
 #### M2Q4: Writing a Video Script on Renewable Energy. Your team is preparing an educational video on renewable energy. You want AI to draft a script that explains key concepts clearly and includes real-world applications. The AI’s script is too technical for students to understand. What should you ask AI to do? Choose only ONE best answer. 
 
-- **A. Simplify the language and use relatable examples for students. **
+- **A. Simplify the language and use relatable examples for students**. 
 - B. Make the script longer and add more examples. 
 - C. Provide more equations to explain renewable energy. 
 - D. Use a formal academic tone instead of a casual one. 
@@ -84,12 +84,12 @@
 - A. Write 5 social media posts promoting sustainable living, focusing on relatable actions young adults can take. 
 - B. Create a series of posts about the environmental impact of unsustainable practices, using infographics and engaging visuals that would relate to a university student. 
 - C. Develop a campaign focusing on how young adults can influence sustainability in their daily lives, with actionable examples. 
-- **D. List key tips about sustainable living and why it is important. **
+- **D. List key tips about sustainable living and why it is important**. 
 
 #### M2Q6: Your team needs to draft a research report about the impact of AI on workforce productivity in the tech industry. Which prompt would be the least effective for achieving this goal? Choose only ONE best answer. 
 
 - A. Write a research report on AI's influence on productivity in the tech industry, including case studies and key trends.
-- **B. Explain how AI is used in the tech industry with key examples. **
+- **B. Explain how AI is used in the tech industry with key examples**. 
 - C. Create a report analysing the pros and cons of AI on workforce efficiency in the tech industry.
 - D. Develop a comprehensive report on AI-driven productivity improvements in tech companies.
 
@@ -100,14 +100,14 @@
 #### M4Q1: What is the primary role of critical thinking when working with AI-generated content? Choose only ONE best answer. 
 
 - A. To accept AI outputs without question. 
-- **B. To analyse and evaluate the relevance and accuracy of AI-generated content. **
+- **B. To analyse and evaluate the relevance and accuracy of AI-generated content**. 
 - C. To automate all creative processes. 
 - D. To use AI output without making any modifications. 
 
 #### M4Q2: Which of the following is a key benefit of using AI in creative processes? Choose only ONE best answer. 
 
 - A. It completely replaces human creativity. 
-- **B. It helps automate repetitive tasks, allowing more time for conceptual work. **
+- **B. It helps automate repetitive tasks, allowing more time for conceptual work**. 
 - C. It generates ideas without any need for human oversight. 
 - D. It eliminates the need for brainstorming and strategic thinking. 
 
@@ -115,7 +115,7 @@
 
 - A. AI may generate unique ideas that challenge human perspectives. 
 - B. Deepening of foundational creative skills. 
-- **C. Surface-level thinking and erosion of creative skills. **
+- **C. Surface-level thinking and erosion of creative skills**. 
 - D. A complete removal of human input from creative work. 
 
 ---
@@ -148,12 +148,12 @@
 - A. Submit AI-generated essays without disclosure. 
 - B. Only use AI when professors explicitly allow it. 
 - C. Use AI to avoid doing any of your own work. 
-- **D. Acknowledge the use of AI where required by academic policies. **
+- **D. Acknowledge the use of AI where required by academic policies**. 
 
 #### M5Q5: Why is it important to verify AI-generated content before using it? Choose only ONE best answer. 
 
 - A. AI's knowledge is always accurate and reliable. 
-- **B. AI-generated content may contain misinformation or inaccuracies. **
+- **B. AI-generated content may contain misinformation or inaccuracies**. 
 - C. AI can replace the need for human creativity and analysis. 
 - D. AI-generated content may not align with institutional guidelines. 
 
@@ -166,7 +166,7 @@
 - A. AI-augmented professionals avoid using AI in their work to maintain full control. 
 - B. AI-dependent professionals use AI to enhance their creative output. 
 - C. AI-augmented professionals rely solely on AI-generated content. 
-- **D. AI-dependent professionals let AI take over their work without critical oversight. **
+- **D. AI-dependent professionals let AI take over their work without critical oversight**. 
 
 #### M6Q2: Which of the following is a key skill for thriving in an AI-driven workforce? Choose only ONE best answer. 
 
@@ -178,6 +178,6 @@
 #### M6Q3: How do AI-augmented professionals utilise AI in their workflows? Choose only ONE best answer. 
 
 - A. They expect AI to solve all problems without human input. 
-- **B. They integrate AI to enhance their capabilities while maintaining human creativity. **
+- **B. They integrate AI to enhance their capabilities while maintaining human creativity**. 
 - C. They ignore AI tools entirely and rely on traditional methods. 
 - D. They use AI for basic tasks but avoid applying it to complex problem-solving. 
